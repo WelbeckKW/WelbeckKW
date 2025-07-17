@@ -1,6 +1,6 @@
 ## Hi there! My name's Kezia👋
 
-<img src="{[BadgeURLHere](https://www.linkedin.com/in/kezia-welbeck-949899229/)}" />
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 I am a highschool student learning to build my experience in all aspects of life. I describe myself as a creative, because I believe creativity is a fundamental part of life! You don't need a pencil and paper to create a story.
 
